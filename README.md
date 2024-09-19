@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi👋 Welcome!
+
+Hi 👋 I'm Carmela Moya. I am from Bulacan State University (Bustos Campus) taking BS in Information Technology major in Web and Mobile Development
+- 💻I’m currently learning: Java, CSS, Javascript, and PHP
+- 😄 Pronouns: She / They
+- 🤔 I’m looking for help with Java and web and game development.
+
 
 <!--
 **hotaruhshs/hotaruhshs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
