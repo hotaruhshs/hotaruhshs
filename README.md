@@ -1,7 +1,7 @@
 ## Hi👋 Welcome!
 
-Hi 👋 I'm Carmela Moya. I am from Bulacan State University (Bustos Campus) taking BS in Information Technology major in Web and Mobile Development
-- 💻 I’m currently learning: Java, CSS, Javascript, and PHP
+Hi 👋 I'm Carmela Moya. I am from Bulacan State University (Bustos Campus) taking BS in Information Technology major in Web and Mobile Development.
+- 💻 I’m currently learning: Java
 - 😄 Pronouns: She / They
 
 
